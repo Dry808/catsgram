@@ -27,3 +27,7 @@ i
 Ssrc/main/java/ru/yandex/practicum/catsgram/exception/ConditionsNotMetException.java,a\5\a5d288168962a04d6c3eb330081764c16fc4ddc2
 {
 Ksrc/main/java/ru/yandex/practicum/catsgram/exception/NotFoundException.java,d\8\d8edd792593bf67b66014f1c234a0f3968e779e4
+y
+Isrc/main/java/ru/yandex/practicum/catsgram/controller/UserController.java,6\7\67d434439e48fb7c8a8063edecef523da7a7e447
+Å
+Qsrc/main/java/ru/yandex/practicum/catsgram/exception/DuplicatedDataException.java,6\3\6381af068c5497128024ad0b5a548de502335efc
